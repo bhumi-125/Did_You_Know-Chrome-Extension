@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Background circle -->
+  <circle cx="64" cy="64" r="60" fill="#4CAF50"/>
+  
+  <!-- Lightbulb shape -->
+  <path d="M64 20c-16.5 0-30 13.5-30 30 0 8.3 3.4 15.8 8.9 21.2 3.5 3.5 5.1 6.9 5.1 10.8v8c0 2.2 1.8 4 4 4h24c2.2 0 4-1.8 4-4v-8c0-3.9 1.6-7.3 5.1-10.8 5.5-5.4 8.9-12.9 8.9-21.2 0-16.5-13.5-30-30-30z" fill="#FFF"/>
+  
+  <!-- Base of bulb -->
+  <rect x="52" y="90" width="24" height="6" rx="2" fill="#FFF"/>
+  <rect x="56" y="98" width="16" height="6" rx="2" fill="#FFF"/>
+</svg>
