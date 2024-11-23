@@ -2,12 +2,14 @@
 Welcome to the Did You Know Chrome Extension! This lightweight and fun browser extension displays a random fact every time you open a new tab, making your browsing experience both informative and entertaining.
 
 **Features**
+
 🌟 **Random Facts:** Get a new random fact every time you open a new tab.
 📚 **Educational & Fun:** Learn something new with every click!
 🎨**Clean Design:**A minimalistic and distraction-free interface.
 ⚙️ **Lightweight:** Doesn't slow down your browser.
 
 **Installation**
+
 Download or Clone the Repository:
 bash
 git clone https://github.com/your-username/random-fact-chrome-extension.git
